@@ -1,0 +1,4 @@
+#uncomment to overclock the arm. 700 MHz is the default.
+over_voltage=6
+arm_freq=2147
+gpu_freq=750
